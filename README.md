@@ -1,4 +1,6 @@
 ----------TR----------
+
+
 ░▒▓█ Windows Format Sonrası Hızlı Kurulum Paketi v1 █▓▒░
                      DEMO SÜRÜM - 2025
 
@@ -39,6 +41,8 @@ VirusTotal 0/72 temiz → https://i.imgur.com/8vL2fQJ.png
 İyi oyunlar, hızlı indirmeler!
 
 ----------EN----------
+
+
 Windows Post-Format Quick Setup Pack v1
 DEMO VERSION - 2025
 
